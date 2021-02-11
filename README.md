@@ -1,2 +1,3 @@
 # CursoEmVideo
-Treinamento Curso em Vídeo
+Treinamento Curso em Vídeo GitHub
+Repositório criado durante treinamento
